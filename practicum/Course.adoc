@@ -976,7 +976,7 @@ https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_%D0%BF%D0%BE%D1%82%D0%BE%
 
 * Кросс-платформенные, платформенно-независимые, platform-independent
 +
-** https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%91%D1%80%D1%82%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82[*Constant folding*]
+* https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%91%D1%80%D1%82%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82[*Constant folding*]
 Свёртка констант - часто используемые в современных компиляторах оптимизации, уменьшающие избыточные вычисления, путём замены константных выражений и переменных на их значения.
 В вышеупомянутом three-address code выражение inttofloat(3) можно заменить на число с плаваюищей точкой **3.0**.
 
